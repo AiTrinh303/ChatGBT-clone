@@ -1,0 +1,37 @@
+{
+  "name": "AI-AI",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && (cd ../",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@clerk/clerk-react": "^5.2.9",
+    "@clerk/themes": "^2.1.13",
+    "@fvilers/disable-react-devtools": "^1.3.0",
+    "@google/generative-ai": "^0.16.0",
+    "@tanstack/react-query": "^5.51.15",
+    "dotenv": "^16.4.5",
+    "imagekitio-react": "^4.2.0",
+    "react": "19.0.0-rc-8b08e99e-20240713",
+    "react-dom": "19.0.0-rc-8b08e99e-20240713",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.25.1",
+    "react-type-animation": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "vite": "^5.3.4"
+  }
+}
