@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd backend && nodemon index.js",
+    "build": "vite build && (cd ../backend && npm install)",
    },
   "keywords": [],
   "author": "",
