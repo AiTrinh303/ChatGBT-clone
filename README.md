@@ -4,8 +4,6 @@ This project is a full-stack implementation of a ChatGPT clone, leveraging moder
 
 ## Table of Contents
 
-- [ChatGPT Clone Fullstack Project](#chatgpt-clone-fullstack-project)
-  - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Screenshots](#screenshots)
