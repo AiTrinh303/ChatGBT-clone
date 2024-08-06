@@ -33,9 +33,3 @@ This project is a full-stack implementation of a ChatGPT clone, leveraging moder
 - **Authentication**: Clerk
 - **Styling**: Tailwind CSS, Custom Animations
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/chatgpt-clone.git
-   cd chatgpt-clone
